@@ -15,6 +15,7 @@
       <mapping pattern="annotationSlice" type="PLAIN_TEXT" />
       <mapping pattern="RaftTasks" type="PLAIN_TEXT" />
       <mapping pattern=".raft.index" type="PLAIN_TEXT" />
+      <mapping pattern=".annotationSlice.raft" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="工作量" type="PLAIN_TEXT" />
       <mapping pattern="IMethod" type="PLAIN_TEXT" />
