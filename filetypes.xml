@@ -20,6 +20,7 @@
       <mapping pattern="annotationSlice" type="PLAIN_TEXT" />
       <mapping pattern="工作量" type="PLAIN_TEXT" />
       <mapping ext="flat" type="PLAIN_TEXT" />
+      <mapping ext="oat" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="lovelyvoice" type="PLAIN_TEXT" />
