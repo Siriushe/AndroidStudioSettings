@@ -1,24 +1,24 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="YMLMeta" type="Groovy" />
-      <mapping pattern="GlobalYMLDownloadStateDataCache" type="Groovy" />
-      <mapping pattern="Constants" type="Groovy" />
-      <mapping pattern="GlobalYMLResolver" type="Groovy" />
-      <mapping pattern="YMLDataCache" type="Groovy" />
       <mapping pattern="GitVersionSpec" type="Groovy" />
+      <mapping pattern="GlobalYMLDownloadStateDataCache" type="Groovy" />
+      <mapping pattern="GlobalYMLResolver" type="Groovy" />
+      <mapping pattern="YMLMeta" type="Groovy" />
+      <mapping pattern="YMLDataCache" type="Groovy" />
+      <mapping pattern="Constants" type="Groovy" />
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="myBuild2" type="PLAIN_TEXT" />
       <mapping pattern=".build.gradle.swp" type="PLAIN_TEXT" />
-      <mapping pattern="annotationSlice" type="PLAIN_TEXT" />
       <mapping pattern="RaftTasks" type="PLAIN_TEXT" />
-      <mapping pattern=".raft.index" type="PLAIN_TEXT" />
-      <mapping pattern=".annotationSlice.raft" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="工作量" type="PLAIN_TEXT" />
+      <mapping pattern="myBuild2" type="PLAIN_TEXT" />
       <mapping pattern="IMethod" type="PLAIN_TEXT" />
+      <mapping pattern=".annotationSlice.raft" type="PLAIN_TEXT" />
+      <mapping pattern=".raft.index" type="PLAIN_TEXT" />
+      <mapping pattern="annotationSlice" type="PLAIN_TEXT" />
+      <mapping pattern="工作量" type="PLAIN_TEXT" />
       <mapping ext="flat" type="PLAIN_TEXT" />
       <mapping ext="oat" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
