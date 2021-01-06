@@ -12,8 +12,8 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".build.gradle.swp" type="PLAIN_TEXT" />
       <mapping pattern="RaftTasks" type="PLAIN_TEXT" />
-      <mapping pattern="dn_java_parser_listener.dart" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="dn_java_parser_listener.dart" type="PLAIN_TEXT" />
       <mapping pattern="myBuild2" type="PLAIN_TEXT" />
       <mapping pattern="IMethod" type="PLAIN_TEXT" />
       <mapping pattern=".annotationSlice.raft" type="PLAIN_TEXT" />
