@@ -23,6 +23,7 @@
       <mapping pattern="IMethod" type="PLAIN_TEXT" />
       <mapping pattern=".build.gradle.swp" type="PLAIN_TEXT" />
       <mapping pattern="dn_java_parser_listener.dart" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="flat" type="PLAIN_TEXT" />
       <mapping ext="oat" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
