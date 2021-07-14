@@ -23,6 +23,7 @@
       <mapping pattern="dn_java_parser_listener.dart" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="PLAIN_TEXT" />
+      <mapping ext="c3t" type="PLAIN_TEXT" />
       <mapping ext="lovelyvoice" type="PLAIN_TEXT" />
       <mapping ext="oat" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
