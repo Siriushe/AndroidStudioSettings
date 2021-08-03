@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="GlobalYMLDownloadStateDataCache" type="Groovy" />
       <mapping pattern="GitVersionSpec" type="Groovy" />
@@ -17,9 +17,9 @@
       <mapping pattern=".annotationSlice.raft" type="PLAIN_TEXT" />
       <mapping pattern="myBuild2" type="PLAIN_TEXT" />
       <mapping pattern="gradlew" type="PLAIN_TEXT" />
-      <mapping pattern="IMethod" type="PLAIN_TEXT" />
-      <mapping pattern=".index.raft.swp" type="PLAIN_TEXT" />
       <mapping pattern="RaftTasks" type="PLAIN_TEXT" />
+      <mapping pattern=".index.raft.swp" type="PLAIN_TEXT" />
+      <mapping pattern="IMethod" type="PLAIN_TEXT" />
       <mapping pattern="dn_java_parser_listener.dart" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="PLAIN_TEXT" />
@@ -33,8 +33,8 @@
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="flat" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
     </extensionMap>
   </component>
 </application>
