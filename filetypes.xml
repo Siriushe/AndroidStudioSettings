@@ -7,6 +7,7 @@
       <mapping pattern="Constants" type="Groovy" />
       <mapping pattern="YMLDataCache" type="Groovy" />
       <mapping pattern="GlobalYMLResolver" type="Groovy" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".build.gradle.swp" type="PLAIN_TEXT" />
       <mapping pattern="annotationSlice" type="PLAIN_TEXT" />
