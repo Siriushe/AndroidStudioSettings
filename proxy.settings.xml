@@ -1,5 +1,5 @@
 <application>
   <component name="HttpConfigurable">
-    <option name="PROXY_PORT" value="8965" />
+    <option name="PROXY_PORT" value="1" />
   </component>
 </application>
