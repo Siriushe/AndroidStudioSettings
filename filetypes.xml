@@ -1,35 +1,35 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="GlobalYMLResolver" type="Groovy" />
       <mapping pattern="GlobalYMLDownloadStateDataCache" type="Groovy" />
       <mapping pattern="GitVersionSpec" type="Groovy" />
       <mapping pattern="YMLMeta" type="Groovy" />
       <mapping pattern="Constants" type="Groovy" />
       <mapping pattern="YMLDataCache" type="Groovy" />
-      <mapping pattern="GlobalYMLResolver" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".build.gradle.swp" type="PLAIN_TEXT" />
       <mapping pattern="annotationSlice" type="PLAIN_TEXT" />
-      <mapping pattern=".raft.index" type="PLAIN_TEXT" />
-      <mapping pattern=".index.raft" type="PLAIN_TEXT" />
-      <mapping pattern="工作量" type="PLAIN_TEXT" />
-      <mapping pattern=".annotationSlice.raft" type="PLAIN_TEXT" />
-      <mapping pattern="myBuild2" type="PLAIN_TEXT" />
-      <mapping pattern="gradlew" type="PLAIN_TEXT" />
-      <mapping pattern="IMethod" type="PLAIN_TEXT" />
-      <mapping pattern=".index.raft.swp" type="PLAIN_TEXT" />
+      <mapping pattern=".build.gradle.swp" type="PLAIN_TEXT" />
       <mapping pattern="RaftTasks" type="PLAIN_TEXT" />
       <mapping pattern="dn_java_parser_listener.dart" type="PLAIN_TEXT" />
+      <mapping pattern="IMethod" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".annotationSlice.raft" type="PLAIN_TEXT" />
+      <mapping pattern="gradlew" type="PLAIN_TEXT" />
+      <mapping pattern="myBuild2" type="PLAIN_TEXT" />
+      <mapping pattern=".index.raft" type="PLAIN_TEXT" />
+      <mapping pattern=".raft.index" type="PLAIN_TEXT" />
+      <mapping pattern="工作量" type="PLAIN_TEXT" />
+      <mapping pattern=".index.raft.swp" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="c3t" type="PLAIN_TEXT" />
       <mapping ext="lovelyvoice" type="PLAIN_TEXT" />
       <mapping ext="oat" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
-      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="flat" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
