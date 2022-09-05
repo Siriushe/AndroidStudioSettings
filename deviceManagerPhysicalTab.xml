@@ -8,7 +8,6 @@
             <value value="RF8M411BXZP" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-11T03:34:22.467884Z" />
         <name value="samsung SM-G973U" />
         <target value="Android 11.0" />
         <api value="30" />
@@ -21,6 +20,17 @@
           </Key>
         </key>
         <name value="TECNO MOBILE LIMITED TECNO BC2" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="9782ffc" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2002J9E" />
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
