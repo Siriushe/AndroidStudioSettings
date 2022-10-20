@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="RF8M411BXZP" />
+          </Key>
+        </key>
+        <name value="samsung SM-G973U" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="AWMCUT1329010487" />
           </Key>
         </key>
@@ -22,17 +33,6 @@
         <name value="OnePlus IN2020" />
         <target value="Android 12.0" />
         <api value="androidversion:31:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="RF8M411BXZP" />
-          </Key>
-        </key>
-        <name value="samsung SM-G973U" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
