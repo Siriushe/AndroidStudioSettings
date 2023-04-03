@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="il2cpp_root" type="AUTO_DETECTED" />
+      <mapping pattern="README" type="AUTO_DETECTED" />
       <mapping pattern="GlobalYMLResolver" type="Groovy" />
       <mapping pattern="GlobalYMLDownloadStateDataCache" type="Groovy" />
       <mapping pattern="GitVersionSpec" type="Groovy" />
