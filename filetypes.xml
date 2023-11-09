@@ -24,6 +24,7 @@
       <mapping pattern=".raft.index" type="PLAIN_TEXT" />
       <mapping pattern="工作量" type="PLAIN_TEXT" />
       <mapping pattern=".index.raft.swp" type="PLAIN_TEXT" />
+      <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="c3t" type="PLAIN_TEXT" />
       <mapping ext="lovelyvoice" type="PLAIN_TEXT" />
