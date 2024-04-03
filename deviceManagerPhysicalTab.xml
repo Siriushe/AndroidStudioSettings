@@ -133,6 +133,17 @@
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="66B4C20320002424" />
+          </Key>
+        </key>
+        <name value="HUAWEI OXF-AN10" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
