@@ -29,6 +29,7 @@
       <mapping ext="c3t" type="PLAIN_TEXT" />
       <mapping ext="lovelyvoice" type="PLAIN_TEXT" />
       <mapping ext="oat" type="PLAIN_TEXT" />
+      <mapping ext="frameinfo" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
